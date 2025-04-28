@@ -9,7 +9,7 @@ from translate import Translator
 
 
 root = tk.Tk()
-root.title("daanis")
+root.title("projekt")
 root.geometry("500x500")
 root.config(bg="#1e1e1e")
 
